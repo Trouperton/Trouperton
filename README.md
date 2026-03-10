@@ -1,6 +1,6 @@
-Hello! I am Trouperton.
+Hi! I'm Trouperton, a developer with a broad range of skills with a penchant for project managerment.
 
-The development environments I am most familiar with are Visual Studio, Visual Studio Code, Unity and Unreal Engine 4. I am currently learning how to create games using Godot 4.3.
+The latest and proudest example of a project I managed would be "Ballroom Madness" that we submitted for the Global Game Jam 2026, it was a very satisfying challenge as 3/5 of the members of the team had never previously worked collaboratively with others.
 
 <details>
 <summary>My top languages to use</summary>
